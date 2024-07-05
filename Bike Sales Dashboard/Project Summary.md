@@ -40,7 +40,7 @@ This dashboard is designed to be used with spreadsheet software like Microsoft E
 
 1. **Clone this repository**:
    ```sh
-   git clone https://github.com/<your-username>/bike-sales-dashboard.git
+   git clone https://github.com/NafisAnsari786/bike-sales-dashboard.git
 
 2. **Open the spreadsheet file**:
    Locate the file named [File Name].xlsx and open it in your preferred spreadsheet software.
