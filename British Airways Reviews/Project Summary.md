@@ -36,7 +36,7 @@ To use this dashboard:
 Contributions to the dashboard are welcome. Please ensure to follow the coding standards and submit a pull request for review.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is open source.
 
 ## Author
 - Nafis Ansari
