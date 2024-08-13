@@ -28,7 +28,7 @@ No installation is required for viewing the dashboard, as it is hosted online. H
 
 ## Usage
 To use this dashboard:
-1. Access the dashboard through the provided URL.
+1. Access the dashboard through the following URL: https://public.tableau.com/app/profile/nafis.ansari4610/viz/BritishAirwaysReviews_17220844835490/Dashboard2
 2. Use the interactive filters to customize the views according to your needs.
 3. Hover over graphs and maps for more detailed information.
 
