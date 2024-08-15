@@ -6,7 +6,7 @@ The Bike Sales Dashboard provides a visual representation of various factors inf
 
 ## Data Description
 
-The dashboard utilizes a sample dataset related to bicycle sales. It includes the following attributes:
+The dashboard utilizes a sample dataset related to bicycle sales. It includes the following attributes: 
 
 - **Marital Status (Categorical)**: Married, Single
 - **Income (Numerical)**: Average income per purchase
