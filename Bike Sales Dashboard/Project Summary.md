@@ -38,7 +38,7 @@ This dashboard is designed to be used with spreadsheet software like Microsoft E
 
 ## Usage
 
-1. **Clone this repository**:
+1. **Clone this repository**: 
    ```sh
    git clone https://github.com/NafisAnsari786/bike-sales-dashboard.git
 
