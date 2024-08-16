@@ -10,7 +10,7 @@ This dashboard provides an in-depth analysis of customer reviews for British Air
 - **Ratings by Aircraft**: Bar graph comparing average ratings across different aircraft models, highlighting the best and worst performers.
 - **Interactive Filters**:
   - Date Range: Filter data by specific months and years.
-  - Traveller Type: View data segmented by traveller type (e.g., Business, Solo Leisure).
+  - Traveller Type: View data segmented by traveller type (e.g., Business, Solo Leisure). 
   - Seat Type: Filter by class of service (e.g., Economy, Business).
   - Aircraft: Select specific aircraft for more detailed insights.
   - Continent: Filter results based on the continent.
