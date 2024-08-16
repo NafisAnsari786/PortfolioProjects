@@ -22,7 +22,7 @@ This dashboard provides an in-depth analysis of customer reviews for British Air
 
 ## Installation
 No installation is required for viewing the dashboard, as it is hosted online. However, to run the data processing scripts locally, you will need: 
-- Python 3.8+
+- Python 3.8+ 
 - Pandas library
 - SQL Server
 
