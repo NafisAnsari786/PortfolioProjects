@@ -8,7 +8,7 @@ This dashboard provides an in-depth analysis of customer reviews for British Air
 - **Ratings Over Time**: Line graph displaying changes in the overall rating by month to identify trends and fluctuations.
 - **Ratings by Country**: Map visualization showing average ratings by country, providing a geographical perspective on service quality.
 - **Ratings by Aircraft**: Bar graph comparing average ratings across different aircraft models, highlighting the best and worst performers.
-- **Interactive Filters**:
+- **Interactive Filters**: 
   - Date Range: Filter data by specific months and years.
   - Traveller Type: View data segmented by traveller type (e.g., Business, Solo Leisure). 
   - Seat Type: Filter by class of service (e.g., Economy, Business).
