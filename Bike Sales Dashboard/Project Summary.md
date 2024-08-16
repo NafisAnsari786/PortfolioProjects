@@ -2,7 +2,7 @@
 
 ## Overview  
 
-The Bike Sales Dashboard provides a visual representation of various factors influencing bicycle sales. It allows users to filter and explore data based on different attributes such as marital status, region, education, and more. This dashboard is designed to be used with spreadsheet software like Microsoft Excel or Google Sheets.
+The Bike Sales Dashboard provides a visual representation of various factors influencing bicycle sales. It allows users to filter and explore data based on different attributes such as marital status, region, education, and more. This dashboard is designed to be used with spreadsheet software like Microsoft Excel or Google Sheets. 
 
 ## Data Description 
 
