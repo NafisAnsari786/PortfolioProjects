@@ -11,7 +11,7 @@ The dashboard utilizes a sample dataset related to bicycle sales. It includes th
 - **Marital Status (Categorical)**: Married, Single 
 - **Income (Numerical)**: Average income per purchase 
 - **Region (Categorical)**: Europe, North America, Pacific
-- **Gender (Categorical)**: Male, Female
+- **Gender (Categorical)**: Male, Female 
 - **Age Group (Categorical)**: Young, Old, Adult
 - **Education (Categorical)**: High School, Partial High School, Bachelors, Graduate Degree
 - **Customer Commute (Categorical)**: Yes, No
