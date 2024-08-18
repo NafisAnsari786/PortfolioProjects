@@ -12,7 +12,7 @@ The dashboard utilizes a sample dataset related to bicycle sales. It includes th
 - **Income (Numerical)**: Average income per purchase 
 - **Region (Categorical)**: Europe, North America, Pacific
 - **Gender (Categorical)**: Male, Female 
-- **Age Group (Categorical)**: Young, Old, Adult
+- **Age Group (Categorical)**: Young, Old, Adult 
 - **Education (Categorical)**: High School, Partial High School, Bachelors, Graduate Degree
 - **Customer Commute (Categorical)**: Yes, No
 - **Commute Distance (Categorical)**: 0-1 Miles, 1-2 Miles, 2-5 Miles, 5-10 Miles, 10+ Miles
