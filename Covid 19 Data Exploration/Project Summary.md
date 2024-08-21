@@ -1,4 +1,4 @@
-# COVID-19 Data Exploration
+# COVID-19 Data Exploration 
 
 This repository contains SQL scripts for exploring COVID-19 data. The data exploration involves various SQL techniques such as Joins, Common Table Expressions (CTEs), Temporary Tables, Window Functions, Aggregate Functions, Creating Views, and Converting Data Types. The main focus is on understanding the impact of COVID-19 across different countries and continents through various metrics.
 
