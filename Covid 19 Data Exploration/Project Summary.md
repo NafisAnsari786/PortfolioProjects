@@ -46,7 +46,7 @@ The SQL scripts include the following queries:
 
 - Ensure you have a database named `PortfolioProject` with tables `CovidDeaths` and `CovidVaccinations`.
 
-#### 2. Run SQL Scripts
+#### 2. Run SQL Scripts 
 
 - Execute the SQL scripts in the provided order to perform data exploration and create views for visualization.
 
