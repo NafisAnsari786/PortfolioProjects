@@ -8,7 +8,7 @@ The data is stored in a database named `PortfolioProject` and contains the follo
 
 - `CovidDeaths`: Contains data related to COVID-19 deaths.
 - `CovidVaccinations`: Contains data related to COVID-19 vaccinations. 
-
+ 
 ### SQL Queries 
 
 The SQL scripts include the following queries:
