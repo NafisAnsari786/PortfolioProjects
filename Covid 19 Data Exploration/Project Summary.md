@@ -14,7 +14,7 @@ The data is stored in a database named `PortfolioProject` and contains the follo
 The SQL scripts include the following queries:
 
 #### 1. Data Retrieval and Selection
-
+ 
 - Retrieve all data from `CovidDeaths` and `CovidVaccinations` where the continent is not `NULL`. 
 - Select relevant columns for further analysis.
 
