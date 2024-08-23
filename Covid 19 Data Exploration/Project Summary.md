@@ -7,7 +7,7 @@ This repository contains SQL scripts for exploring COVID-19 data. The data explo
 The data is stored in a database named `PortfolioProject` and contains the following tables:
 
 - `CovidDeaths`: Contains data related to COVID-19 deaths.
-- `CovidVaccinations`: Contains data related to COVID-19 vaccinations. 
+- `CovidVaccinations`: Contains data related to COVID-19 vaccinations.  
 
 ### SQL Queries
 
