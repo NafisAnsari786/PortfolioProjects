@@ -18,7 +18,7 @@ The SQL scripts include the following queries:
 - Retrieve all data from `CovidDeaths` and `CovidVaccinations` where the continent is not `NULL`. 
 - Select relevant columns for further analysis.
 
-#### 2. Analysis and Metrics
+#### 2. Analysis and Metrics 
 
 - **Total Cases vs Total Deaths**: Calculate the likelihood of dying if infected with COVID-19 for specific countries.
 - **Total Cases vs Population**: Calculate the percentage of the population infected with COVID-19 for each country.
