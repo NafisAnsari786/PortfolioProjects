@@ -12,7 +12,7 @@ This dashboard provides an in-depth analysis of customer reviews for British Air
   - Date Range: Filter data by specific months and years. 
   - Traveller Type: View data segmented by traveller type (e.g., Business, Solo Leisure). 
   - Seat Type: Filter by class of service (e.g., Economy, Business).
-  - Aircraft: Select specific aircraft for more detailed insights.
+  - Aircraft: Select specific aircraft for more detailed insights. 
   - Continent: Filter results based on the continent.
 
 ## Technologies Used
