@@ -1,6 +1,6 @@
 # British Airways Review Dashboard
  
-## Project Overview
+## Project Overview 
 This dashboard provides an in-depth analysis of customer reviews for British Airways from March 2016 to October 2023. It offers insights into various service aspects such as cabin staff,  entertainment, food, and overall comfort. The dashboard aims to help stakeholders understand trends over time, compare performance across different aircraft, and evaluate service quality across various geographical regions. 
  
 ## Features 
