@@ -1,5 +1,5 @@
 # Nashville Housing Data Cleaning Project
- 
+  
 ## Project Summary 
 
 This project involves cleaning the `NashvilleHousing` dataset within the `PortfolioProject` database. The data cleaning steps include:
