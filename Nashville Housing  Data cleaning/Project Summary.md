@@ -25,7 +25,7 @@ This project involves cleaning the `NashvilleHousing` dataset within the `Portfo
 
 ## SQL Techniques Used
 
-- **Date Conversion**: Used `CONVERT` function to standardize date formats.
+- **Date Conversion**: Used `CONVERT` function to standardize date formats. 
 - **Joins**: Employed `INNER JOIN` to populate missing property addresses.
 - **String Functions**: Utilized `SUBSTRING`, `CHARINDEX`, and `PARSENAME` for breaking out concatenated fields.
 - **Conditional Statements**: Applied `CASE` statements to standardize boolean fields.
