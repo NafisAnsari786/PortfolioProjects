@@ -4,7 +4,7 @@
 
 This project involves cleaning the `NashvilleHousing` dataset within the `PortfolioProject` database. The data cleaning steps include:
 
-1. **Standardizing Date Formats**: 
+1. **Standardizing Date Formats**:  
    - Converted the `SaleDate` column to a standardized date format and stored it in a new column `SaleDateConverted`. 
  
 2. **Populating Missing Property Address Data**:
