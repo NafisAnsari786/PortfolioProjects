@@ -14,7 +14,7 @@ This project involves cleaning the `NashvilleHousing` dataset within the `Portfo
    - Separated `PropertyAddress` into `Address` and `City` columns using string manipulation functions.
    - Separated `OwnerAddress` into `Owner_Address`, `Owner_City`, and `Owner_State` columns using the `PARSENAME` function.
  
-4. **Standardizing Boolean Fields**:
+4. **Standardizing Boolean Fields**: 
    - Converted `Y` and `N` values in the `SoldAsVacant` column to `Yes` and `No`.
 
 5. **Removing Duplicates**:
