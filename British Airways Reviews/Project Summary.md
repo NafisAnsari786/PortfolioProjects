@@ -5,7 +5,7 @@ This dashboard provides an in-depth analysis of customer reviews for British Air
 
 ## Features  
 - **Average Ratings Overview**: Quick glance at key service metrics including cabin staff, entertainment, and food.
-- **Ratings Over Time**: Line graph displaying changes in the overall rating by month to identify trends and fluctuations. 
+- **Ratings Over Time**: Line graph displaying changes in the overall rating by month to identify trends and  fluctuations. 
 - **Ratings by Country**: Map visualization showing average ratings by country, providing a geographical perspective on service quality.
 - **Ratings by Aircraft**: Bar graph comparing average ratings across different aircraft models, highlighting the best and worst performers.
 - **Interactive Filters**: 
