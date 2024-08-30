@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import requests as r
 import datetime
 import time
-import smtplib
+import smtplib 
 
 # %%
 # Connect to Website and pull in data
