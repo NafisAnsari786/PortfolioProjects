@@ -36,7 +36,7 @@ ratings_count=soup2.find(class_="a-size-base a-color-secondary").get_text()
 
 print(title)
 print(price)
-print(ratings_count)
+print(ratings_count) 
 
 # %%
 # Cleaning the data 
