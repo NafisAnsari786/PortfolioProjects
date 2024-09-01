@@ -7,7 +7,7 @@ import requests as r
 import datetime  
 import time 
 import smtplib    
- 
+  
 # %% 
 # Connect to Website and pull in data
 
