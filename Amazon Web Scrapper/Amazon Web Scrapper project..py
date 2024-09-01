@@ -35,7 +35,7 @@ price=soup2.find(class_="a-price-whole").get_text()
 ratings_count=soup2.find(class_="a-size-base a-color-secondary").get_text()
 
 print(title)
-print(price)
+print(price) 
 print(ratings_count) 
 
 # %%
