@@ -20,7 +20,7 @@ page=r.get(URL, headers=headers)
 soup1=BeautifulSoup(page.content, 'html.parser')
 print(soup1)
  
- 
+  
 
 # %%
 soup2=BeautifulSoup(soup1.prettify(),'html.parser')
