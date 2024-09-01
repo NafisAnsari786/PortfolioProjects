@@ -1,7 +1,7 @@
 # %% [markdown] 
 # # Amazon Web Scraper Project  
 
-# %%  
+# %%   
 from bs4 import BeautifulSoup 
 import requests as r  
 import datetime  
