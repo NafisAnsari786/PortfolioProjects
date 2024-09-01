@@ -19,7 +19,7 @@ page=r.get(URL, headers=headers)
 
 soup1=BeautifulSoup(page.content, 'html.parser')
 print(soup1) 
- 
+  
   
 
 # %%
