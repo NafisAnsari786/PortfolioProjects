@@ -8,7 +8,7 @@ import datetime
 import time 
 import smtplib    
  
-# %%
+# %% 
 # Connect to Website and pull in data
 
 URL='https://www.amazon.in/gp/product/B0CHX2WQLX/ref=s9_bw_cg_Budget_8f1_w?pf_rd_m=AT95IG9ONZD7S&pf_rd_s=merchandised-search-11&pf_rd_r=FFYP77Z0Y7RXT8SJT83H&pf_rd_t=101&pf_rd_p=46012d7b-8fec-4760-8b34-c70e8edfda2b&pf_rd_i=1389401031&th=1'
