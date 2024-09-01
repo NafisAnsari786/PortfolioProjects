@@ -22,7 +22,7 @@ print(soup1)
   
   
 
-# %%
+# %% 
 soup2=BeautifulSoup(soup1.prettify(),'html.parser')
 print(soup2)
 
