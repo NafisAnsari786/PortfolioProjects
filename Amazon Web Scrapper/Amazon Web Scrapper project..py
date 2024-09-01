@@ -49,7 +49,7 @@ ratings_count=ratings_count.strip()
 print(title)
 print(price)
 print(ratings_count)
-
+ 
 
 # %%
 # Creating a timestamp for your output to track when data was collected
