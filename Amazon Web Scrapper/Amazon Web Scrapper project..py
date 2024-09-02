@@ -17,7 +17,7 @@ headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/53
 
 page=r.get(URL, headers=headers) 
  
-soup1=BeautifulSoup(page.content, 'html.parser')
+soup1=BeautifulSoup(page.content, 'html.parser') 
 print(soup1)  
   
   
