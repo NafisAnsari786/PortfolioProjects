@@ -1,5 +1,5 @@
 # %% [markdown] 
-# # Amazon Web Scraper Project  
+# # Amazon Web Scraper Project   
 
 # %%   
 from bs4 import BeautifulSoup 
