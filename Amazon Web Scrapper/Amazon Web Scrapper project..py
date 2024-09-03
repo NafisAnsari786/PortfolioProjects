@@ -42,7 +42,7 @@ print(ratings_count)
 # Cleaning the data 
 
 title=title.strip()
-price=price.replace('\n','').strip()
+price=price.replace('\n','').strip() 
 ratings_count=ratings_count.strip()
 
 
