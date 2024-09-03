@@ -25,7 +25,7 @@ print(soup1)
 # %% 
 soup2=BeautifulSoup(soup1.prettify(),'html.parser') 
 print(soup2)
-
+ 
 # %%
 # Here, get_text() works only if we define soup1 and soup2 seperately, and in some instances only once
 title=soup2.find(id="productTitle").get_text()
