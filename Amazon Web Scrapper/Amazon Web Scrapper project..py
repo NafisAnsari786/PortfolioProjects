@@ -47,7 +47,7 @@ ratings_count=ratings_count.strip()
 
 
 print(title)
-print(price)
+print(price) 
 print(ratings_count)
  
 
