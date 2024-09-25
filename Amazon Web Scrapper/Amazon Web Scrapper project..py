@@ -5,7 +5,7 @@
 
 from bs4 import BeautifulSoup 
 import requests as r    
-import datetime 
+import datetime  
 import time
 import smtplib 
   
