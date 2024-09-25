@@ -3,7 +3,7 @@
   
 # %% 
 
-from bs4 import BeautifulSoup  
+from bs4 import BeautifulSoup 
 import requests as r    
 import datetime 
 import time 
