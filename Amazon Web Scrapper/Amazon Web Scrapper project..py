@@ -1,5 +1,6 @@
 # %% [markdown]  
 # # Amazon Web Scraper Project   
+
   
 # %%  
 
