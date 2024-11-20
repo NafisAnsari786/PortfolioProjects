@@ -1,7 +1,7 @@
 ## **1. Classification Report** 
 ```python   
 print("Classification Report:\n", classification_report(y_test, y_pred))
-```
+``` 
 * This report gives detailed statistics on the performance of your classification model. It includes the following metrics for each class (0 and 1) as well as average metrics for the model:
 
 * **Precision:** The percentage of true positive predictions (correct defaulters) out of all positive predictions (predicted defaulters).
