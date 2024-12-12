@@ -1,0 +1,255 @@
+/* General Reset */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #121212;
+    color: #ffffff;
+  }
+  
+  /* Container Styling */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header Section */
+  header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  header p {
+    font-size: 1.2em;
+    color: #bbbbbb;
+  }
+  
+  /* Description Section */
+  .description {
+    background: #1e1e1e;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+  }
+  
+  .description h2 {
+    margin-bottom: 10px;
+    color: #fca311;
+  }
+  
+  .description p {
+    font-size: 1.1em;
+    line-height: 1.5;
+  }
+  
+  /* Main Section */
+  main {
+    display: flex;
+    gap: 20px;
+  }
+  
+  /* Input Section */
+  .input-section {
+    flex: 1;
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .input-section h2 {
+    margin-bottom: 20px;
+    color: #fca311;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input, select, button {
+    padding: 10px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #fca311;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #fb8500;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #06d6a0;
+  }
+  
+  /* Map Section */
+  .map-section {
+    flex: 1;
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .map-section h2 {
+    margin-bottom: 20px;
+    color: #fca311;
+  }
+  
+  #map {
+    width: 100%;
+    height: 400px;
+    background: #333333;
+  }
+  
+  #map {
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  .map-image {
+    width: 100%;
+    max-width: 800px; /* Adjust as needed for your layout */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .map-image:hover {
+    transform: scale(1.05); /* Adds a zoom effect on hover */
+  }
+  
+  
+  /* GitHub Section */
+  .github {
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .github h2 {
+    margin-bottom: 15px;
+    color: #fca311;
+  }
+  
+  .github ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .github li {
+    margin-bottom: 10px;
+  }
+  
+  .github a {
+    text-decoration: none;
+    color: #06d6a0;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .github a:hover {
+    color: #fca311;
+  }
+
+  /* Footer Section */
+    .footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 15px;
+    background: #1e1e1e;
+    border-top: 1px solid #333;
+    color: #bbbbbb;
+    font-size: 0.9em;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: #06d6a0;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .footer a:hover {
+    color: #fca311;
+  }
+  /* Add background image to the entire page */
+body {
+    background-image: url('https://r4.wallpaperflare.com/wallpaper/79/352/53/modern-architecture-nature-landscape-wallpaper-91d4cc9715b1c36b8db0b1e66eeaf83f.jpg'); /* Replace with the actual image path */
+    background-size: cover; /* Makes sure the background covers the entire page */
+    background-position: center center; /* Centers the image */
+    background-attachment: fixed; /* Keeps the background fixed while scrolling */
+    color: #fff; /* Ensures text stands out against the background */
+    font-family: 'Arial', sans-serif; /* Example font, you can change it */
+}
+
+/* Additional styling */
+h1, h2, h3, p {
+    color: white; /* Ensures text remains visible on dark backgrounds */
+}
+
+/* Styling the content section */
+.container {
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.7); /* Dark background for contrast */
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+/* Example for input fields to ensure visibility */
+input, select, button {
+    background-color: #333; /* Dark background */
+    color: white;
+    border: 1px solid #555;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+    margin: 10px 0;
+}
+
+/* Add hover effects to buttons */
+button:hover {
+    background-color: #ff5733;
+}
+
+/* Make the footer styled and responsive */
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #222;
+    margin-top: 40px;
+}
+
+.footer p {
+    margin: 0;
+    color: white;
+}
+
+.footer a {
+    color: #ff5733;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}

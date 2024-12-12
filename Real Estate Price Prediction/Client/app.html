@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Real Estate Price Prediction</title>
+  <link rel="stylesheet" href="app.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <!-- Header Section -->
+    <header>
+      <h1>Banglore Housing Prices Prediction</h1>
+      <p>A web application for predicting housing prices in Bangalore using Machine Learning.</p>
+    </header>
+
+    <!-- Description Section -->
+    <section class="description">
+      <h2>About the Project</h2>
+      <p>This app uses machine learning to predict the price of houses in Bangalore. It loads a pre-trained machine learning model, which takes into account various features of the house, such as the number of rooms, the number of bedrooms, the square footage, and the neighborhood's location. Additionally, the model takes into account factors such as the proximity to major areas, public transport, and other location-based features. The app processes the input data and outputs a predicted house price based on the given attributes.</p>
+    </section>
+
+    <!-- Main Content Section -->
+    <main>
+      <!-- Input Section -->
+      <section class="input-section">
+        <h2>Enter the details:</h2>
+        <form id="pricePredictionForm">
+          <label for="total_sqft">Total Square Feet:</label>
+          <input type="number" id="total_sqft" placeholder="Enter total area in sqft" required>
+          
+          <label for="bhk">Number of BHK:</label>
+          <input type="number" id="bhk" placeholder="Enter number of bedrooms" required>
+          
+          <label for="bath">Number of Bathrooms:</label>
+          <input type="number" id="bath" placeholder="Enter number of bathrooms" required>
+
+          <label for="location">Location:</label>
+          <select id="location">
+            <option value="" disabled selected>Select Location</option>
+          </select>
+
+          <button type="button" id="predictButton">Predict Price</button>
+        </form>
+        <p id="result" class="result"></p>
+      </section>
+
+      <!-- Map Section -->
+      <section class="map-section">
+        <h2>Bangalore Map</h2>
+        <div id="map">
+            <img
+              src="https://www.turkey-visit.com/map/india/bangalore/map_of_bangalore.jpg"
+              alt="Bangalore City"
+              class="map-image"
+            />
+          </div>
+      </section>
+    </main>
+
+    <!-- GitHub Section -->
+    <section class="github">
+      <h2>Project and GitHub Links</h2>
+      <p>Check out the source code and more details:</p>
+      <ul>
+        <li><a href="https://github.com/NafisAnsari786" target="_blank">GitHub Profile</a></li>
+        <li><a href="https://github.com/NafisAnsari786/Machine-Learning-Algorithms/tree/main/ML%20Projects/Real%20Estate%20Price%20Prediction" target="_blank">Project Repository</a></li>
+      </ul>
+    </section>
+    <!-- Footer Section -->
+    <footer class="footer">
+    <p>© 2024 Real Estate Price Prediction. Made with ❤️ by<a href="https://github.com/NafisAnsari786" target="_blank"> Nafis Ansari</a>.</p>
+  </footer>
+  </div>
+</body>
+</html>
