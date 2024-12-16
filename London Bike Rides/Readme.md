@@ -16,9 +16,9 @@ This project provides an analysis of London bike rides data, exploring the relat
 ---
 
 ## Project Overview
-The project analyzes bike rides in London between **22nd February 2015** and **3rd January 2016**. It includes:
+The project analyzes bike rides in London between **2015** and **2017**. It includes:
 - Total bike rides over the selected time period.
-- A 25-day moving average of bike rides.
+- The moving average of bike rides.
 - A comparison of temperature and wind speed with bike ride counts.
 
 The insights generated will help better understand how environmental conditions influence biking activity.
