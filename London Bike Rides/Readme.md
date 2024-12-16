@@ -43,7 +43,7 @@ The dataset includes:
 - **Total Rides**: **8,804,436** shows the rides within a specific time period.
 
 ### 2. Moving Average
-- The **Moving Average ** highlights the overall trend in bike usage.
+- The **Moving Average** highlights the overall trend in bike usage.
 - Peak usage occurs during warmer months and declines during colder months.
 
 ### 3. Temperature vs Wind Speed
