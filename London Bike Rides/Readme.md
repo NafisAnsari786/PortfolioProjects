@@ -104,7 +104,7 @@ This project demonstrates the influence of weather conditions on biking activity
 ## Contact
 If you have any questions or feedback, feel free to contact me at:
 - **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com)
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/nafis-ansari-63878b182/))
 
 ---
 
