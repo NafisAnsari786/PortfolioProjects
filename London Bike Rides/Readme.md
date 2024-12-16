@@ -103,8 +103,8 @@ This project demonstrates the influence of weather conditions on biking activity
 
 ## Contact
 If you have any questions or feedback, feel free to contact me at:
-- **Email**: your-email@example.com
-- **LinkedIn**: [[Nafis Ansari](https://www.linkedin.com/in/nafis-ansari-63878b182/)](https://www.linkedin.com)
+- **Email**: nafisansari786@outlook.com
+- **LinkedIn**: [Nafis Ansari](https://www.linkedin.com/in/nafis-ansari-63878b182/)
 ---
 
 **Project By:** *Nafis Ansari*
