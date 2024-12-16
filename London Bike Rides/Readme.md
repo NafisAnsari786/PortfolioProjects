@@ -33,17 +33,17 @@ The dataset includes:
 4. **Time Series**: Daily counts of bike rides.
 
 ### Time Period:
-- Start: **22-02-2015**
-- End: **03-01-2016**
+- Start: **2015**
+- End: **2017**
 
 ---
 
 ## Key Visualizations
 ### 1. Total Bike Rides
-- **Total Rides**: **8,804,436** rides between 22nd Feb 2015 and 3rd Jan 2016.
+- **Total Rides**: **8,804,436** shows the rides within a specific time period.
 
-### 2. 25-Day Moving Average
-- The **25-day moving average** highlights the overall trend in bike usage.
+### 2. Moving Average Duration
+- The **Moving Average Duration** highlights the overall trend in bike usage.
 - Peak usage occurs during warmer months and declines during colder months.
 
 ### 3. Temperature vs Wind Speed
@@ -56,10 +56,10 @@ The dataset includes:
 
 ## Insights
 1. **Total Bike Usage**
-   - Over 8.8 million bike rides were recorded during the analyzed period.
+   - Over 19 million bike rides were recorded during the analyzed period.
 
 2. **Trends**
-   - The 25-day moving average shows higher bike usage in summer months (June to September).
+   - The Moving Average Duration shows higher bike usage in summer months (June to September).
    - Winter months (December) saw a significant decline in rides.
 
 3. **Impact of Weather**
