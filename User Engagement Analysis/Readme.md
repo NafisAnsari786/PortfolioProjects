@@ -1,7 +1,7 @@
 # **User Engagement Analysis**
 
 ## Project Overview
-This project focuses on analyzing user engagement using data-driven methods. The goal is to extract actionable insights, visualize trends, and interpret the factors driving user behavior. The analysis utilizes Python and popular libraries such as Pandas, Matplotlib, and Seaborn.
+This project focuses on analyzing the Yelp dataset for user engagement using data-driven methods. The goal is to extract actionable insights, visualize trends, and interpret the factors driving user behavior. The analysis utilizes Python and popular libraries such as SQLlite, Pandas, Matplotlib, and Seaborn.
 
 ## Key Steps in Analysis
 1. **Data Exploration**:
@@ -23,6 +23,7 @@ This project focuses on analyzing user engagement using data-driven methods. The
 
 ## Technologies and Tools Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQLlite, Folium Maps, SQL
 - Jupyter Notebook
 
 ## Summary of Insights
@@ -32,6 +33,7 @@ This project focuses on analyzing user engagement using data-driven methods. The
 
 ## Files in the Repository
 - **`User Engagement Analysis.ipynb`**: Main notebook containing the analysis.
+- **`User Engagement Database Creation.ipynb`**: To create the SQL database using SQL alchemy.
 - **`README.md`**: Overview and summary of the project.
 
 ## Visualizations
@@ -39,16 +41,14 @@ The notebook includes multiple plots such as:
 - User engagement trends over time.
 - Distribution of activity levels across user segments.
 
-## Future Work
-- Enhance analysis by incorporating additional datasets.
-- Use machine learning techniques for predictive insights.
-- Build interactive dashboards for real-time engagement monitoring.
-
 ---
 ### Example Visualizations
 
 ### **Average Engagement based on Rating**
 ![image](https://github.com/user-attachments/assets/f8f1d5ca-a3c4-4af5-ae2c-1e927aa3e8d7)
+
+### **Correlation between Reviews, Tips and Check-ins**
+![image](https://github.com/user-attachments/assets/677f8d0b-13d6-4f2b-8622-041c753f6f69)
 
 ### **Success Metric accross different Cities**
 ![image](https://github.com/user-attachments/assets/329df0ba-1a3c-4b4c-bad3-8aa13c6d1403)
@@ -61,6 +61,9 @@ The notebook includes multiple plots such as:
 
 ### **Seasonal decomposition for High Rated Review**
 ![image](https://github.com/user-attachments/assets/2660f645-b02d-4512-a1e4-fa4c15e6d416)
+
+### **Correlation between the User Sentiments and Success Score
+![image](https://github.com/user-attachments/assets/14f1d98f-0353-4ba3-8756-abb41e9d50a0)
 
 ### **Users and thier Review Distribution**
 ![image](https://github.com/user-attachments/assets/eed5e8d2-c94b-47c8-a942-1f51ff767307)
