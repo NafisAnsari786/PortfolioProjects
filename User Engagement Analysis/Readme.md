@@ -47,25 +47,25 @@ The notebook includes multiple plots such as:
 ---
 ### Example Visualizations
 
--### **Average Engagement based on Rating**
+### **Average Engagement based on Rating**
 ![image](https://github.com/user-attachments/assets/f8f1d5ca-a3c4-4af5-ae2c-1e927aa3e8d7)
 
--### **Success Metric accross different Cities**
+### **Success Metric accross different Cities**
 ![image](https://github.com/user-attachments/assets/329df0ba-1a3c-4b4c-bad3-8aa13c6d1403)
 
--### **Time Series Trend between High Rated and Low Rated Engagement**
+### **Time Series Trend between High Rated and Low Rated Engagement**
 ![image](https://github.com/user-attachments/assets/d8fc45bc-7fbd-4575-a86d-c14c54c987d0)
 
--### **Seasonal decomposition for High Rated Tip**
+### **Seasonal decomposition for High Rated Tip**
 ![image](https://github.com/user-attachments/assets/013360aa-2515-46b8-839e-3ebba42c1b09)
 
--### **Seasonal decomposition for High Rated Review**
+### **Seasonal decomposition for High Rated Review**
 ![image](https://github.com/user-attachments/assets/2660f645-b02d-4512-a1e4-fa4c15e6d416)
 
--### **Users and thier Review Distribution**
+### **Users and thier Review Distribution**
 ![image](https://github.com/user-attachments/assets/eed5e8d2-c94b-47c8-a942-1f51ff767307)
 
--### **Peak hours for User Engagement
+### **Peak hours for User Engagement
 ![image](https://github.com/user-attachments/assets/c174b32c-990f-44a1-a71b-f8f2381be387)
 
 
