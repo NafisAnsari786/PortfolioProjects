@@ -65,7 +65,7 @@ The notebook includes multiple plots such as:
 ### **Users and thier Review Distribution**
 ![image](https://github.com/user-attachments/assets/eed5e8d2-c94b-47c8-a942-1f51ff767307)
 
-### **Peak hours for User Engagement
+### **Peak hours for User Engagement**
 ![image](https://github.com/user-attachments/assets/c174b32c-990f-44a1-a71b-f8f2381be387)
 
 
