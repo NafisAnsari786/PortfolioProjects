@@ -46,4 +46,17 @@ The notebook includes multiple plots such as:
 
 ---
 ### Example Visualizations
-(Include images or references to the plots generated in the notebook)
+![image](https://github.com/user-attachments/assets/f8f1d5ca-a3c4-4af5-ae2c-1e927aa3e8d7)
+
+![image](https://github.com/user-attachments/assets/329df0ba-1a3c-4b4c-bad3-8aa13c6d1403)
+
+![image](https://github.com/user-attachments/assets/d8fc45bc-7fbd-4575-a86d-c14c54c987d0)
+
+![image](https://github.com/user-attachments/assets/013360aa-2515-46b8-839e-3ebba42c1b09)
+
+![image](https://github.com/user-attachments/assets/2660f645-b02d-4512-a1e4-fa4c15e6d416)
+
+![image](https://github.com/user-attachments/assets/eed5e8d2-c94b-47c8-a942-1f51ff767307)
+
+
+
