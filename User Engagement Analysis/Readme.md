@@ -62,7 +62,7 @@ The notebook includes multiple plots such as:
 ### **Seasonal decomposition for High Rated Review**
 ![image](https://github.com/user-attachments/assets/2660f645-b02d-4512-a1e4-fa4c15e6d416)
 
-### **Correlation between the User Sentiments and Success Score
+### **Correlation between the User Sentiments and Success Score**
 ![image](https://github.com/user-attachments/assets/14f1d98f-0353-4ba3-8756-abb41e9d50a0)
 
 ### **Users and thier Review Distribution**
