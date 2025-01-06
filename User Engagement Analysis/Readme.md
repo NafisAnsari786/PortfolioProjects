@@ -1,5 +1,5 @@
 # **User Engagement Analysis**
- 
+  
 ## Project Overview
 This project focuses on analyzing the Yelp dataset for user engagement using data-driven methods. The goal is to extract actionable insights, visualize trends, and interpret the factors driving user behavior. The analysis utilizes Python and popular libraries such as SQLlite, Pandas, Matplotlib, and Seaborn.
 
