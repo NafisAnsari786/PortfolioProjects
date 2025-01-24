@@ -112,7 +112,8 @@ Revenue Growth =
 ---
 
 ## **Screenshots**
-![Dashboard Screenshot](link_to_screenshot)
+![image](https://github.com/user-attachments/assets/2a368c60-85aa-427e-b947-83ae13e43969)
+
 
 ---
 
@@ -126,20 +127,11 @@ Revenue Growth =
 
 ---
 
-## **How to Use**
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/ecommerce-analytics-dashboard.git
-```
-2. Open the `E-Commerce_Analytics.pbix` file in Power BI Desktop.
-3. Refresh the data source if required.
-4. Explore the dashboard and interact with filters for insights.
-
 ---
 
 ## **Contact**
 For queries or suggestions, feel free to reach out:
-- **Email**: your_email@example.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub](https://github.com/yourusername)
+- **Email**: nafisansari786@outlook.com
+- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/nafis-ansari-63878b182/)
+- **GitHub**: [Your GitHub](https://github.com/NafisAnsari786)
 
