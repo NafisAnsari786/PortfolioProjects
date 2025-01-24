@@ -122,6 +122,6 @@ Revenue Growth =
 ## **Contact**
 For queries or suggestions, feel free to reach out:
 - **Email**: nafisansari786@outlook.com
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/nafis-ansari-63878b182/)
-- **GitHub**: [Your GitHub](https://github.com/NafisAnsari786)
+- **LinkedIn**: [Nafis Ansari](https://www.linkedin.com/in/nafis-ansari-63878b182/)
+- **GitHub**: [Nafis Ansari](https://github.com/NafisAnsari786)
 
