@@ -117,16 +117,6 @@ Revenue Growth =
 
 ---
 
-## **Repository Structure**
-```
-|-- Data/                     # Raw and processed datasets
-|-- Screenshots/              # Dashboard images
-|-- E-Commerce_Analytics.pbix # Power BI project file
-|-- README.md                 # Project overview
-```
-
----
-
 ---
 
 ## **Contact**
