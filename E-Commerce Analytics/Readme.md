@@ -1,5 +1,8 @@
 # E-Commerce Analytics Dashboard Project
 
+![image](https://github.com/user-attachments/assets/2a368c60-85aa-427e-b947-83ae13e43969)
+
+
 ## **Project Overview**
 This project involves building an interactive and insightful Power BI dashboard for an e-commerce dataset. The dashboard helps visualize key performance indicators (KPIs) and provides actionable insights into revenue, profit, and order metrics across various dimensions such as countries, markets, subcategories, and e-commerce platforms.
 
@@ -108,14 +111,6 @@ Revenue Growth =
 - Add more advanced analytics like forecasting future revenue or profit trends.
 - Incorporate customer demographics for detailed segmentation analysis.
 - Deploy the dashboard to Power BI Service for sharing and collaboration.
-
----
-
-## **Screenshots**
-![image](https://github.com/user-attachments/assets/2a368c60-85aa-427e-b947-83ae13e43969)
-
-
----
 
 ---
 
