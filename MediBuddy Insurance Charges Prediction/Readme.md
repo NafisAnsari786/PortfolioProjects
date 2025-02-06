@@ -83,10 +83,10 @@ def predict_insurance(age, bmi, children, sex, smoker, region, model):
 ```
 
 ## 📌 Business Recommendations
-🔹Implement dynamic pricing based on age, BMI, and smoking status.
-🔹Offer discounts to encourage healthier lifestyles.
-🔹Regional risk factors should be considered in policy pricing.
-🔹Gender-based pricing should be carefully evaluated to align with regulatory norms.
+- Implement dynamic pricing based on age, BMI, and smoking status.
+- Offer discounts to encourage healthier lifestyles.
+- Regional risk factors should be considered in policy pricing.
+- Gender-based pricing should be carefully evaluated to align with regulatory norms.
 
 ---
 
