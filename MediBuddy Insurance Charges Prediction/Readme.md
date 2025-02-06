@@ -91,9 +91,9 @@ def predict_insurance(age, bmi, children, sex, smoker, region, model):
 ---
 
 ## 💡 Future Improvements
-🔹 Experiment with deep learning models for better accuracy.
-🔹 Deploy as a Flask API for real-world integration.
-🔹 Integrate additional health metrics like blood pressure or medical history.
+-  Experiment with deep learning models for better accuracy.
+- Deploy as a Flask API for real-world integration.
+- Integrate additional health metrics like blood pressure or medical history.
 
 ---
 
