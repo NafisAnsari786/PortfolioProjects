@@ -1,5 +1,7 @@
 # MediBuddy Insurance Analysis & Prediction Model
 
+![image](https://github.com/user-attachments/assets/16fcabc7-68cd-453d-91dc-083643f4a330)
+
 ## 📌 Project Overview
 This project involves an in-depth analysis of insurance claims data to derive insights and develop a predictive machine learning model for estimating insurance charges. The dataset consists of patient demographics, BMI, smoking habits, geographic locations, and policy details.
 
