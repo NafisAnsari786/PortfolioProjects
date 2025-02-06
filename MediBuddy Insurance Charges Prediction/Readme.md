@@ -20,7 +20,7 @@ This project involves an in-depth analysis of insurance claims data to derive in
 - **Conclusion:** The company may need to consider gender when pricing policies.
 
 ### 2️⃣ Average Amount Spent Per Policy Cover
-- **Mean Insurance Charge:** ₹XYZ (Derived from dataset analysis)
+- **Mean Insurance Charge:** 13270.42 INR 
 - **Conclusion:** Helps in setting base policy pricing.
 
 ### 3️⃣ Should Policies Vary by Geographic Location?
