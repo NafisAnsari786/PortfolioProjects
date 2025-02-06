@@ -64,9 +64,9 @@ This project involves an in-depth analysis of insurance claims data to derive in
 3. **Hyperparameter Tuning:**
    - GridSearchCV used for optimizing parameters.
 4. **Performance Metrics:**
-   - **RMSE:** XYZ
-   - **MAE:** XYZ
-   - **R² Score:** XYZ
+   - **RMSE:** 4765.08
+   - **MAE:** 2601.02
+   - **R² Score:** 0.8402
 
 ### 🏆 Final Model Deployment
 - The trained model predicts insurance charges based on user inputs.
@@ -82,8 +82,6 @@ def predict_insurance(age, bmi, children, sex, smoker, region, model):
     return f"Estimated Insurance Charges: ₹{prediction:.2f}"
 ```
 
----
-
 ## 📌 Business Recommendations
 ✔ Implement dynamic pricing based on age, BMI, and smoking status.
 ✔ Offer discounts to encourage healthier lifestyles.
@@ -91,20 +89,6 @@ def predict_insurance(age, bmi, children, sex, smoker, region, model):
 ✔ Gender-based pricing should be carefully evaluated to align with regulatory norms.
 
 ---
-
-## 📎 Repository Structure
-```
-📂 MediBuddy_Insurance_Analysis
- ├── 📁 data
- │   ├── insurance_data.csv
- ├── 📁 notebooks
- │   ├── exploratory_data_analysis.ipynb
- │   ├── model_training.ipynb
- ├── 📁 src
- │   ├── model.py
- │   ├── preprocess.py
- ├── README.md (This File)
-```
 
 ## 💡 Future Improvements
 🔹 Experiment with deep learning models for better accuracy.
@@ -114,4 +98,4 @@ def predict_insurance(age, bmi, children, sex, smoker, region, model):
 ---
 
 ## 🔗 Connect With Me
-[GitHub](#) | [LinkedIn](#) | [Portfolio](#)
+[GitHub](https://github.com/NafisAnsari786) | [LinkedIn](https://www.linkedin.com/in/nafis-ansari-63878b182/) | [Portfolio](https://nafisansari786.github.io/Nafis.github.io/#)
