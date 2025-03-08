@@ -1,5 +1,8 @@
 # Zomato Restaurants Exploratory Data Analysis (EDA)
 
+![image](https://github.com/user-attachments/assets/a789364f-6131-4e6c-94b5-3771760d6791)
+
+
 This project involves performing Exploratory Data Analysis (EDA) on Zomato's restaurant data to gain insights into the restaurant industry. The analysis identifies patterns, trends, and relationships within the data, providing a better understanding of restaurant ratings, pricing, locations, and customer preferences.
 
 ## Table of Contents
