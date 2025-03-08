@@ -90,11 +90,5 @@ These insights can help restaurant owners make data-driven decisions to enhance 
 
 ## Acknowledgements
 
-We acknowledge Zomato for providing the dataset used in this analysis. This project was inspired by similar EDA projects available on GitHub, including:
-
-- [Zomato-EDA by himanshu0195](https://github.com/himanshu0195/Zomato-EDA)
-- [Zomato-Data-Analysis-EDA by akashmailar](https://github.com/akashmailar/Zomato-Data-Analysis-EDA)
-- [Zomato_EDA_project by Ravina189](https://github.com/Ravina189/Zomato_EDA_project)
-
-These projects served as valuable references in conducting this analysis.
+We acknowledge Zomato for providing the dataset used in this analysis. 
 
