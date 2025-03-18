@@ -1,5 +1,8 @@
 # Zomato Restaurant Clustering and Sentiment Analysis
 
+![image](https://github.com/user-attachments/assets/22e18428-f745-4e31-933f-15b7b6e8cb0c)
+
+
 ## Overview
 This project focuses on analyzing Zomato restaurant data to perform clustering and sentiment analysis. The goal is to group restaurants based on their features and analyze customer reviews to understand the sentiment behind them. The project is implemented in Python using Jupyter Notebook.
 
@@ -28,7 +31,6 @@ The dataset used in this project is from Zomato, which includes information abou
 - **NumPy**: For numerical computations.
 - **Matplotlib & Seaborn**: For data visualization.
 - **Scikit-learn**: For machine learning algorithms and clustering.
-- **NLTK**: For natural language processing and sentiment analysis.
 - **WordCloud**: For generating word clouds from text data.
 
 ## Methodology
