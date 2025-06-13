@@ -1,5 +1,7 @@
 # **User Engagement Analysis**
-  
+
+![image](https://github.com/user-attachments/assets/ee742c62-9611-43d0-882b-f40288dddd9d)
+
 ## Project Overview
 This project focuses on analyzing the Yelp dataset for user engagement using data-driven methods. The goal is to extract actionable insights, visualize trends, and interpret the factors driving user behavior. The analysis utilizes Python and popular libraries such as SQLlite, Pandas, Matplotlib, and Seaborn.
 
