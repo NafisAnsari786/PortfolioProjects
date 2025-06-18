@@ -1,6 +1,7 @@
 # 📊 Amazon Prime Video EDA (Exploratory Data Analysis)
 
-https://novelpro.weebly.com/uploads/2/0/6/9/2069152/prime-video_orig.gif
+![image](https://github.com/user-attachments/assets/717d9612-8658-4771-95e1-3ee6cce926d6)
+
 
 This project focuses on analyzing the Amazon Prime Video dataset to extract meaningful insights into the platform's content strategy, distribution trends, and other key factors influencing its streaming offerings. It includes thorough data cleaning, preprocessing, and visual storytelling using Python.
 
