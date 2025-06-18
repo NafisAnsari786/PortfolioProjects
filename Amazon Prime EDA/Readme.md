@@ -18,7 +18,7 @@ The primary goal is to perform **Exploratory Data Analysis (EDA)** on the Amazon
 
 ## 🌐 Live Preview
 
-👉 **[Click here to view the full notebook](https://nbviewer.org/github/NafisAnsari786/PortfolioProjects/blob/main/Amazon%20Prime%20EDA/Amazon%20Prime%20EDA.ipynb)** on **Nbviewer**
+👉 **[Click here to view the full notebook](https://nbviewer.org/github/NafisAnsari786/PortfolioProjects/blob/main/Amazon%20Prime%20EDA/Amazon%20Prime%20EDA.ipynb target="_blank")** on **Nbviewer**
 
 ---
 
