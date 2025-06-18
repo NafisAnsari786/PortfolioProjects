@@ -90,5 +90,6 @@ This EDA helps Amazon Prime stakeholders, data analysts, and content strategists
 ```bash
 📦 Amazon Prime EDA
  ┣ 📜 Amazon Prime EDA.ipynb   # Jupyter notebook containing full EDA
- ┣ 📊 Dataset.csv               # Source dataset
+ ┣ 📊 Credits.csv               # Source dataset
+ ┣ 📊 Titles.csv               # Source dataset
  ┗ README.md                   # Project documentation
