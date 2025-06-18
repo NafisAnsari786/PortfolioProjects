@@ -30,7 +30,7 @@ The dataset used in this project was sourced from Kaggle and contains the follow
 - `listed_in`: Genre categories
 - `cast`, `director`, `description`: Metadata about content
 
-> Dataset size: ~960 entries  
+> Dataset size: ~124300 entries  
 > Format: `.csv`
 
 ---
