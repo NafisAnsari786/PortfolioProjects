@@ -56,7 +56,7 @@ To build a comprehensive dashboard that enables stakeholders to:
 
 ## 📸 Dashboard Snapshot
 
-![Candidate Performance Dashboard](./78c25364-5e61-4956-9e08-90bde228bac0.png)
+![image](https://github.com/user-attachments/assets/2c239ed4-9031-4328-860d-122ff5380286)
 
 > Note: Image shown above is a static preview. For interactive experience, open the `.pbix` file in Power BI Desktop.
 
@@ -69,3 +69,5 @@ To build a comprehensive dashboard that enables stakeholders to:
  ┣ 📊 Candidate_Performance.pbix     # Power BI report file
  ┣ 📄 README.md                      # Project documentation
  ┗ 📸 Dashboard_Screenshot.png       # Dashboard preview image
+ ┗ 📸 Dataset.xlsx                   #Dataset used for dashboard
+ ┗ 📸 Python script.ipynb            #To Clean the dataset
